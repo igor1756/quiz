@@ -1,5 +1,5 @@
 # quiz
-Jogo em formato de quiz
+Jogo em formato de quiz.
 
 Linguagem Python.
 Biblioteca Flask.
