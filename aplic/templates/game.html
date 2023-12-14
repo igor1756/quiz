@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Resultado - Congressistas Quiz</title>
+</head>
+<body>    
+    <h1>Bem-vindo ao Congressistas Quiz, {{ player_name }}</h1>
+    <h1>Responda à seguinte pergunta</h1>
+    <h2>Questão</h2>
+    <form action="/verify" method="post">
+        <h3>{{ question }}</h3>
+
+        <input type="checkbox" id="opcaoA" name="alternativaA" value="respostaA">
+        <label for="opcaoA">A) Partido no meio </label><br>
+        
+        <input type="checkbox" id="opcaoB" name="alternativaB" value="respostaB">
+        <label for="opcaoB">B) Partido baixo </label><br>
+        
+        <input type="checkbox" id="opcaoC" name="alternativaC" value="respostaC">
+        <label for="opcaoC">C) Partido alto </label><br>
+
+        <!-- <input type="submit" value="Responder"> -->
+        <input type="hidden" name="jogador" value="{{ player_name }}">
+
+        <button type="submit">Responder</button>
+    </form>
+
+</body>
+</html>

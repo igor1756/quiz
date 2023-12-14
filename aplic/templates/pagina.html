@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+</head>
+<body>
+
+    <h2>{{ questao.pergunta }}</h2>
+    <form method="post" action="/">
+        {% for alternativa in questao.alternativas %}
+            <input type="radio" name="resposta_jogador" value="{{ alternativa }}"> {{ alternativa }}<br>
+        {% endfor %}
+        <br>
+        <input type="submit" value="Responder">
+    </form>
+    <hr>
+
+</body>
+</html>

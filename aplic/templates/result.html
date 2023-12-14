@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Resultado - Congressistas Quiz</title>
+</head>
+<body>
+    <h2>Parabéns, {{ player_name }}!</h2>
+    <p>Sua pontuação: {{ score }}</p>
+    <p>Pontuação mais alta: {{ high_score }}</p>
+
+    <!-- Botão de redirecionamento -->
+    <button id="reset">Recomeçar o jogo</button>
+    <button id="next">Mais uma questão</button>
+
+    <script>
+        // Adiciona um ouvinte de eventos para o clique do botão
+        document.getElementById("reset").addEventListener("click", function() {
+            // Redireciona para a rota raiz do projeto
+            window.location.href = "/";
+        });
+
+        // Adiciona um ouvinte de eventos para o clique do botão
+        document.getElementById("next").addEventListener("click", function() {
+            // Redireciona para a rota raiz do projeto
+            window.location.href = "/game";
+        });
+    </script>
+</body>
+</html>
