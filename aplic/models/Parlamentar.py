@@ -16,3 +16,6 @@ class Parlamentar:
         {"nome": "Ciclano", "partido": "B", "cargo": "Senador", "uf": "RJ"},
         # Adicione mais parlamentares conforme necessário
     ]
+
+    def get_all():
+        

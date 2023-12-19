@@ -1,0 +1,2557 @@
+[
+    {
+        "nome": "Abilio Brunini",
+        "siglaPartido": "PL",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Ac\u00e1cio Favacho",
+        "siglaPartido": "MDB",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Adail Filho",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Adilson Barroso",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Adolfo Viana",
+        "siglaPartido": "PSDB",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Adriana Ventura",
+        "siglaPartido": "NOVO",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Adriano do Baldy",
+        "siglaPartido": "PP",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "A\u00e9cio Neves",
+        "siglaPartido": "PSDB",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Afonso Hamm",
+        "siglaPartido": "PP",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Afonso Motta",
+        "siglaPartido": "PDT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Aguinaldo Ribeiro",
+        "siglaPartido": "PP",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Airton Faleiro",
+        "siglaPartido": "PT",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "AJ Albuquerque",
+        "siglaPartido": "PP",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Alberto Fraga",
+        "siglaPartido": "PL",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Alberto Mour\u00e3o",
+        "siglaPartido": "MDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Albuquerque",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Alceu Moreira",
+        "siglaPartido": "MDB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Alencar Santana",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Alex Manente",
+        "siglaPartido": "CIDADANIA",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Alex Santana",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Alexandre Guimar\u00e3es",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Alexandre Leite",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Alexandre Lindenmeyer",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Alfredinho",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Alfredo Gaspar",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Alice Portugal",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Aliel Machado",
+        "siglaPartido": "PV",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Altineu C\u00f4rtes",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Am\u00e1lia Barros",
+        "siglaPartido": "PL",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Amanda Gentil",
+        "siglaPartido": "PP",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Amaro Neto",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Amom Mandel",
+        "siglaPartido": "CIDADANIA",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Ana Paula Le\u00e3o",
+        "siglaPartido": "PP",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Ana Paula Lima",
+        "siglaPartido": "PT",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Ana Pimentel",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Andr\u00e9 Fernandes",
+        "siglaPartido": "PL",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Andr\u00e9 Ferreira",
+        "siglaPartido": "PL",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Andr\u00e9 Figueiredo",
+        "siglaPartido": "PDT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Andr\u00e9 Janones",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Andreia Siqueira",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Ant\u00f4nia L\u00facia",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Antonio Andrade",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Antonio Brito",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Antonio Carlos Rodrigues",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ant\u00f4nio Doido",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Any Ortiz",
+        "siglaPartido": "CIDADANIA",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Arlindo Chinaglia",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Arnaldo Jardim",
+        "siglaPartido": "CIDADANIA",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Arthur Lira",
+        "siglaPartido": "PP",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Arthur Oliveira Maia",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "\u00c1tila Lins",
+        "siglaPartido": "PSD",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "\u00c1tila Lira",
+        "siglaPartido": "PP",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Augusto Coutinho",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Augusto Puppio",
+        "siglaPartido": "MDB",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Aureo Ribeiro",
+        "siglaPartido": "SOLIDARIEDADE",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Bacelar",
+        "siglaPartido": "PV",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Baleia Rossi",
+        "siglaPartido": "MDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Bandeira de Mello",
+        "siglaPartido": "PSB",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Bebeto",
+        "siglaPartido": "PP",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Benedita da Silva",
+        "siglaPartido": "PT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Benes Leoc\u00e1dio",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Beto Pereira",
+        "siglaPartido": "PSDB",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Beto Richa",
+        "siglaPartido": "PSDB",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Bia Kicis",
+        "siglaPartido": "PL",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Bibo Nunes",
+        "siglaPartido": "PL",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Bohn Gass",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Bruno Farias",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Bruno Ganem",
+        "siglaPartido": "PODE",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Cabo Gilberto Silva",
+        "siglaPartido": "PL",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Caio Vianna",
+        "siglaPartido": "PSD",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Camila Jara",
+        "siglaPartido": "PT",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Capit\u00e3o Alberto Neto",
+        "siglaPartido": "PL",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Capit\u00e3o Alden",
+        "siglaPartido": "PL",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Capit\u00e3o Augusto",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Carla Zambelli",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Carlos Chiodini",
+        "siglaPartido": "MDB",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Carlos Henrique Gaguim",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Carlos Jordy",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Carlos Sampaio",
+        "siglaPartido": "PSDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Carlos Veras",
+        "siglaPartido": "PT",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Carlos Zarattini",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Carol Dartora",
+        "siglaPartido": "PT",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Caroline de Toni",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Castro Neto",
+        "siglaPartido": "PSD",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "C\u00e9lia Xakriab\u00e1",
+        "siglaPartido": "PSOL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "C\u00e9lio Silveira",
+        "siglaPartido": "MDB",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "C\u00e9lio Studart",
+        "siglaPartido": "PSD",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Celso Russomanno",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Cezinha de Madureira",
+        "siglaPartido": "PSD",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Charles Fernandes",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Chico Alencar",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Chris Tonietto",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Clarissa T\u00e9rcio",
+        "siglaPartido": "PP",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Claudio Cajado",
+        "siglaPartido": "PP",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Cleber Verde",
+        "siglaPartido": "MDB",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Clodoaldo Magalh\u00e3es",
+        "siglaPartido": "PV",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Cobalchini",
+        "siglaPartido": "MDB",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Coronel Assis",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Coronel Chris\u00f3stomo",
+        "siglaPartido": "PL",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Coronel Fernanda",
+        "siglaPartido": "PL",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Coronel Meira",
+        "siglaPartido": "PL",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Coronel Telhada",
+        "siglaPartido": "PP",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Coronel Ulysses",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Covatti Filho",
+        "siglaPartido": "PP",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Cristiane Lopes",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Da Vitoria",
+        "siglaPartido": "PP",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Dagoberto Nogueira",
+        "siglaPartido": "PSDB",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Daiana Santos",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Dal Barreto",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Dami\u00e3o Feliciano",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Dandara",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Dani Cunha",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Daniel Agrobom",
+        "siglaPartido": "PL",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Daniel Almeida",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Daniel Barbosa",
+        "siglaPartido": "PP",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Daniel Freitas",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Daniel Trzeciak",
+        "siglaPartido": "PSDB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Daniela do Waguinho",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Daniela Reinehr",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Danilo Forte",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Darci de Matos",
+        "siglaPartido": "PSD",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "David Soares",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Dayany Bittencourt",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Defensor St\u00e9lio Dener",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Delegada Adriana Accorsi",
+        "siglaPartido": "PT",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Delegada Ione",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Delegada Katarina",
+        "siglaPartido": "PSD",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Delegado Caveira",
+        "siglaPartido": "PL",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Delegado da Cunha",
+        "siglaPartido": "PP",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Delegado \u00c9der Mauro",
+        "siglaPartido": "PL",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Delegado Fabio Costa",
+        "siglaPartido": "PP",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Delegado Marcelo Freitas",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Delegado Matheus Laiola",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Delegado Palumbo",
+        "siglaPartido": "MDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Delegado Paulo Bilynskyj",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Delegado Ramagem",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Denise Pess\u00f4a",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Diego Andrade",
+        "siglaPartido": "PSD",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Diego Coronel",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Diego Garcia",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Dilceu Sperafico",
+        "siglaPartido": "PP",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Dilvanda Faro",
+        "siglaPartido": "PT",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Dimas Fabiano",
+        "siglaPartido": "PP",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Dimas Gadelha",
+        "siglaPartido": "PT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Domingos Neto",
+        "siglaPartido": "PSD",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Domingos S\u00e1vio",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Dorinaldo Malafaia",
+        "siglaPartido": "PDT",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Doutor Luizinho",
+        "siglaPartido": "PP",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Dr Fabio Rueda",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Dr. Allan Garc\u00eas",
+        "siglaPartido": "PP",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Dr. Benjamim",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Dr. Fernando M\u00e1ximo",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Dr. Francisco",
+        "siglaPartido": "PT",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Dr. Frederico",
+        "siglaPartido": "PATRIOTA",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Dr. Jaziel",
+        "siglaPartido": "PL",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Dr. Luiz Ovando",
+        "siglaPartido": "PP",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Dr. Victor Linhalis",
+        "siglaPartido": "PODE",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Dr. Zacharias Calil",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Dra. Alessandra Haber",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Duarte Jr.",
+        "siglaPartido": "PSB",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Duda Ramos",
+        "siglaPartido": "MDB",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Duda Salabert",
+        "siglaPartido": "PDT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Eduardo Bismarck",
+        "siglaPartido": "PDT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Eduardo Bolsonaro",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Eduardo da Fonte",
+        "siglaPartido": "PP",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Elcione Barbalho",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Eli Borges",
+        "siglaPartido": "PL",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Elmar Nascimento",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Ely Santos",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Emanuel Pinheiro Neto",
+        "siglaPartido": "MDB",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Emidinho Madeira",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Eriberto Medeiros",
+        "siglaPartido": "PSB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Erika Hilton",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Erika Kokay",
+        "siglaPartido": "PT",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Eros Biondini",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Euclydes Pettersen",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Eun\u00edcio Oliveira",
+        "siglaPartido": "MDB",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Evair Vieira de Melo",
+        "siglaPartido": "PP",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "F\u00e1bio Macedo",
+        "siglaPartido": "PODE",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Fabio Reis",
+        "siglaPartido": "PSD",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Fabio Schiochet",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "F\u00e1bio Teruel",
+        "siglaPartido": "MDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Fausto Pinato",
+        "siglaPartido": "PP",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Fausto Santos Jr.",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Felipe Becari",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Felipe Carreras",
+        "siglaPartido": "PSB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Felipe Francischini",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Felipe Saliba",
+        "siglaPartido": "PATRIOTA",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "F\u00e9lix Mendon\u00e7a J\u00fanior",
+        "siglaPartido": "PDT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Fernanda Melchionna",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Fernanda Pessoa",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Fernando Coelho Filho",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Fernando Mineiro",
+        "siglaPartido": "PT",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Fernando Monteiro",
+        "siglaPartido": "PP",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Fernando Rodolfo",
+        "siglaPartido": "PL",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Filipe Barros",
+        "siglaPartido": "PL",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Filipe Martins",
+        "siglaPartido": "PL",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Fl\u00e1via Morais",
+        "siglaPartido": "PDT",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Fl\u00e1vio Nogueira",
+        "siglaPartido": "PT",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Florentino Neto",
+        "siglaPartido": "PT",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Franciane Bayer",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Fred Linhares",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Gabriel Mota",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Gabriel Nunes",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "General Gir\u00e3o",
+        "siglaPartido": "PL",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "General Pazuello",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Geovania de S\u00e1",
+        "siglaPartido": "PSDB",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Geraldo Mendes",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Geraldo Resende",
+        "siglaPartido": "PSDB",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Gerlen Diniz",
+        "siglaPartido": "PP",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Gerv\u00e1sio Maia",
+        "siglaPartido": "PSB",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Giacobo",
+        "siglaPartido": "PL",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Gilberto Abramo",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Gilberto Nascimento",
+        "siglaPartido": "PSD",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Gilson Daniel",
+        "siglaPartido": "PODE",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Gilson Marques",
+        "siglaPartido": "NOVO",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Gilvan da Federal",
+        "siglaPartido": "PL",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Gilvan Maximo",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Giovani Cherini",
+        "siglaPartido": "PL",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Gisela Simona",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Glauber Braga",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Glaustin da Fokus",
+        "siglaPartido": "PODE",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Gleisi Hoffmann",
+        "siglaPartido": "PT",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Greyce Elias",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Guilherme Boulos",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Guilherme Uchoa",
+        "siglaPartido": "PSB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Gustavo Gayer",
+        "siglaPartido": "PL",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Gustinho Ribeiro",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Gutemberg Reis",
+        "siglaPartido": "MDB",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Heitor Schuch",
+        "siglaPartido": "PSB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Helder Salom\u00e3o",
+        "siglaPartido": "PT",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Helena Lima",
+        "siglaPartido": "MDB",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "H\u00e9lio Leite",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Helio Lopes",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Henderson Pinto",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Henrique J\u00fanior",
+        "siglaPartido": "PL",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Herc\u00edlio Coelho Diniz",
+        "siglaPartido": "MDB",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Hildo do Candango",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Hugo Motta",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Icaro de Valmir",
+        "siglaPartido": "PL",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Idilvan Alencar",
+        "siglaPartido": "PDT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Igor Timo",
+        "siglaPartido": "PODE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Ismael",
+        "siglaPartido": "PSD",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Ismael Alexandrino",
+        "siglaPartido": "PSD",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Isnaldo Bulh\u00f5es Jr.",
+        "siglaPartido": "MDB",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Ivan Valente",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ivoneide Caetano",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Iza Arruda",
+        "siglaPartido": "MDB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Jack Rocha",
+        "siglaPartido": "PT",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Jadyel Alencar",
+        "siglaPartido": "PV",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Jandira Feghali",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Jefferson Campos",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Jilmar Tatto",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Jo\u00e3o Carlos Bacelar",
+        "siglaPartido": "PL",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Jo\u00e3o Daniel",
+        "siglaPartido": "PT",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Jo\u00e3o Le\u00e3o",
+        "siglaPartido": "PP",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Jo\u00e3o Maia",
+        "siglaPartido": "PP",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Joaquim Passarinho",
+        "siglaPartido": "PL",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Jonas Donizette",
+        "siglaPartido": "PSB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Jones Moura",
+        "siglaPartido": "PSD",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Jorge Braz",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Jorge Goetten",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Jorge Solla",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Jos\u00e9 Airton F\u00e9lix Cirilo",
+        "siglaPartido": "PT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Jos\u00e9 Guimar\u00e3es",
+        "siglaPartido": "PT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Jos\u00e9 Medeiros",
+        "siglaPartido": "PL",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Jos\u00e9 Nelto",
+        "siglaPartido": "PP",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Jos\u00e9 Priante",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Jos\u00e9 Rocha",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Joseildo Ramos",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Josenildo",
+        "siglaPartido": "PDT",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Josivaldo JP",
+        "siglaPartido": "PSD",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Juarez Costa",
+        "siglaPartido": "MDB",
+        "siglaUf": "MT"
+    },
+    {
+        "nome": "Julia Zanatta",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Juliana Cardoso",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Julio Arcoverde",
+        "siglaPartido": "PP",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "J\u00falio Cesar",
+        "siglaPartido": "PSD",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Julio Lopes",
+        "siglaPartido": "PP",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Juninho do Pneu",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Junio Amaral",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "J\u00fanior Ferrari",
+        "siglaPartido": "PSD",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "J\u00fanior Mano",
+        "siglaPartido": "PL",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Keniston Braga",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Kiko Celeguim",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Kim Kataguiri",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Lafayette de Andrada",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Laura Carneiro",
+        "siglaPartido": "PSD",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "L\u00e1zaro Botelho",
+        "siglaPartido": "PP",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Lebr\u00e3o",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "L\u00eada Borges",
+        "siglaPartido": "PSDB",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Leo Prates",
+        "siglaPartido": "PDT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Leonardo Monteiro",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Leur Lomanto J\u00fanior",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "L\u00eddice da Mata",
+        "siglaPartido": "PSB",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Lincoln Portela",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Lindbergh Farias",
+        "siglaPartido": "PT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Lucas Ramos",
+        "siglaPartido": "PSB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Lucas Redecker",
+        "siglaPartido": "PSDB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Luciano Alves",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Luciano Amaral",
+        "siglaPartido": "PV",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Luciano Azevedo",
+        "siglaPartido": "PSD",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Luciano Bivar",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Luciano Ducci",
+        "siglaPartido": "PSB",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Luciano Galego",
+        "siglaPartido": "PL",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Luciano Vieira",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Lucio Mosquini",
+        "siglaPartido": "MDB",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Luis Carlos Gomes",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Luis Tib\u00e9",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Luisa Canziani",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Luiz Carlos Busato",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Luiz Carlos Hauly",
+        "siglaPartido": "PODE",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Luiz Carlos Motta",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Luiz Couto",
+        "siglaPartido": "PT",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Luiz Fernando Faria",
+        "siglaPartido": "PSD",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Luiz Gast\u00e3o",
+        "siglaPartido": "PSD",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Luiz Lima",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Luiz Nishimori",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Luiz Philippe de Orleans e Bragan\u00e7a",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Luiza Erundina",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Luizianne Lins",
+        "siglaPartido": "PT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Lula da Fonte",
+        "siglaPartido": "PP",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Magda Mofatto",
+        "siglaPartido": "PATRIOTA",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Marangoni",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Marcel van Hattem",
+        "siglaPartido": "NOVO",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Marcelo \u00c1lvaro Ant\u00f4nio",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Marcelo Crivella",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Marcelo Moraes",
+        "siglaPartido": "PL",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Marcelo Queiroz",
+        "siglaPartido": "PP",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Marcio Alvino",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "M\u00e1rcio Biolchi",
+        "siglaPartido": "MDB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "M\u00e1rcio Honaiser",
+        "siglaPartido": "PDT",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "M\u00e1rcio Jerry",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "M\u00e1rcio Marinho",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Marco Brasil",
+        "siglaPartido": "PP",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Marcon",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Marcos Aur\u00e9lio Sampaio",
+        "siglaPartido": "PSD",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Marcos Pereira",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Marcos Pollon",
+        "siglaPartido": "PL",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Marcos Soares",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Marcos Tavares",
+        "siglaPartido": "PDT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Maria Arraes",
+        "siglaPartido": "SOLIDARIEDADE",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Maria do Ros\u00e1rio",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Maria Rosas",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Mariana Carvalho",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Mario Frias",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "M\u00e1rio Heringer",
+        "siglaPartido": "PDT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "M\u00e1rio Negromonte Jr.",
+        "siglaPartido": "PP",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Marreca Filho",
+        "siglaPartido": "PATRIOTA",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Marussa Boldrin",
+        "siglaPartido": "MDB",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Marx Beltr\u00e3o",
+        "siglaPartido": "PP",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Matheus Noronha",
+        "siglaPartido": "PL",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Maur\u00edcio Carvalho",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Mauricio do V\u00f4lei",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Mauricio Marcon",
+        "siglaPartido": "PODE",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Mauricio Neves",
+        "siglaPartido": "PP",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Mauro Benevides Filho",
+        "siglaPartido": "PDT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Max Lemos",
+        "siglaPartido": "PDT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Meire Serafim",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Mendon\u00e7a Filho",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Merlong Solano",
+        "siglaPartido": "PT",
+        "siglaUf": "PI"
+    },
+    {
+        "nome": "Mersinho Lucena",
+        "siglaPartido": "PP",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Messias Donato",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Miguel \u00c2ngelo",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Miguel Lombardi",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Misael Varella",
+        "siglaPartido": "PSD",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Moses Rodrigues",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Murillo Gouvea",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Murilo Galdino",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Nat\u00e1lia Bonavides",
+        "siglaPartido": "PT",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Nely Aquino",
+        "siglaPartido": "PODE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Neto Carletto",
+        "siglaPartido": "PP",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Newton Cardoso Jr",
+        "siglaPartido": "MDB",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Nicoletti",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Nikolas Ferreira",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Nilto Tatto",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Odair Cunha",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Olival Marques",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Orlando Silva",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Osmar Terra",
+        "siglaPartido": "MDB",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Ossesio Silva",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Otoni de Paula",
+        "siglaPartido": "MDB",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Otto Alencar Filho",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Padovani",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Padre Jo\u00e3o",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Pastor Diniz",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Pastor Eurico",
+        "siglaPartido": "PL",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Pastor Henrique Vieira",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Pastor Sargento Isid\u00f3rio",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Patrus Ananias",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Paul\u00e3o",
+        "siglaPartido": "PT",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Paulinho da For\u00e7a",
+        "siglaPartido": "SOLIDARIEDADE",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Paulinho Freire",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Paulo Abi-Ackel",
+        "siglaPartido": "PSDB",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Paulo Alexandre Barbosa",
+        "siglaPartido": "PSDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Paulo Azi",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Paulo Foletto",
+        "siglaPartido": "PSB",
+        "siglaUf": "ES"
+    },
+    {
+        "nome": "Paulo Freire Costa",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Paulo Guedes",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Paulo Litro",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Paulo Magalh\u00e3es",
+        "siglaPartido": "PSD",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Paulo Marinho Jr",
+        "siglaPartido": "PL",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Pedro Aihara",
+        "siglaPartido": "PATRIOTA",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Pedro Campos",
+        "siglaPartido": "PSB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Pedro Lucas Fernandes",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Pedro Lupion",
+        "siglaPartido": "PP",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Pedro Paulo",
+        "siglaPartido": "PSD",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Pedro Uczai",
+        "siglaPartido": "PT",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Pedro Westphalen",
+        "siglaPartido": "PP",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Pezenti",
+        "siglaPartido": "MDB",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Pinheirinho",
+        "siglaPartido": "PP",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Pompeo de Mattos",
+        "siglaPartido": "PDT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Pr. Marco Feliciano",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Prof. Paulo Fernando",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Prof. Reginaldo Veras",
+        "siglaPartido": "PV",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Professor Alcides",
+        "siglaPartido": "PL",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Professora Goreth",
+        "siglaPartido": "PDT",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Professora Luciene Cavalcante",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Rafael Brito",
+        "siglaPartido": "MDB",
+        "siglaUf": "AL"
+    },
+    {
+        "nome": "Rafael Prudente",
+        "siglaPartido": "MDB",
+        "siglaUf": "DF"
+    },
+    {
+        "nome": "Rafael Simoes",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Raimundo Costa",
+        "siglaPartido": "PODE",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Raimundo Santos",
+        "siglaPartido": "PSD",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Reginaldo Lopes",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Reginete Bispo",
+        "siglaPartido": "PT",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Reimont",
+        "siglaPartido": "PT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Reinhold Stephanes",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Renata Abreu",
+        "siglaPartido": "PODE",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Renilce Nicodemos",
+        "siglaPartido": "MDB",
+        "siglaUf": "PA"
+    },
+    {
+        "nome": "Renildo Calheiros",
+        "siglaPartido": "PCdoB",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Ricardo Abr\u00e3o",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Ricardo Ayres",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Ricardo Maia",
+        "siglaPartido": "MDB",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Ricardo Salles",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ricardo Silva",
+        "siglaPartido": "PSD",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Rob\u00e9rio Monteiro",
+        "siglaPartido": "PDT",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Roberta Roma",
+        "siglaPartido": "PL",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Roberto Duarte",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Roberto Monteiro Pai",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Robinson Faria",
+        "siglaPartido": "PL",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Rodolfo Nogueira",
+        "siglaPartido": "PL",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Rodrigo de Castro",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Rodrigo Gambale",
+        "siglaPartido": "PODE",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Rodrigo Valadares",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Rog\u00e9ria Santos",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Rog\u00e9rio Correia",
+        "siglaPartido": "PT",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Romero Rodrigues",
+        "siglaPartido": "PODE",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Ronaldo Nogueira",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Rosana Valle",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ros\u00e2ngela Moro",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ros\u00e2ngela Reis",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Roseana Sarney",
+        "siglaPartido": "MDB",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Rubens Otoni",
+        "siglaPartido": "PT",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Rubens Pereira J\u00fanior",
+        "siglaPartido": "PT",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Rui Falc\u00e3o",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Ruy Carneiro",
+        "siglaPartido": "PODE",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "S\u00e2mia Bomfim",
+        "siglaPartido": "PSOL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Samuel Viana",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Sanderson",
+        "siglaPartido": "PL",
+        "siglaUf": "RS"
+    },
+    {
+        "nome": "Sargento Fahur",
+        "siglaPartido": "PSD",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Sargento Gon\u00e7alves",
+        "siglaPartido": "PL",
+        "siglaUf": "RN"
+    },
+    {
+        "nome": "Sargento Portugal",
+        "siglaPartido": "PODE",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Saullo Vianna",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Saulo Pedroso",
+        "siglaPartido": "PSD",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Sergio Souza",
+        "siglaPartido": "MDB",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Sidney Leite",
+        "siglaPartido": "PSD",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Silas C\u00e2mara",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "AM"
+    },
+    {
+        "nome": "Silvia Cristina",
+        "siglaPartido": "PL",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Silvia Wai\u00e3pi",
+        "siglaPartido": "PL",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Silvio Antonio",
+        "siglaPartido": "PL",
+        "siglaUf": "MA"
+    },
+    {
+        "nome": "Silvye Alves",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "GO"
+    },
+    {
+        "nome": "Simone Marquetto",
+        "siglaPartido": "MDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Socorro Neri",
+        "siglaPartido": "PP",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Sonize Barbosa",
+        "siglaPartido": "PL",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Soraya Santos",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "S\u00f3stenes Cavalcante",
+        "siglaPartido": "PL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Stefano Aguiar",
+        "siglaPartido": "PSD",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Tabata Amaral",
+        "siglaPartido": "PSB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Tadeu Veneri",
+        "siglaPartido": "PT",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Tal\u00edria Petrone",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Tarc\u00edsio Motta",
+        "siglaPartido": "PSOL",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Thiago de Joaldo",
+        "siglaPartido": "PP",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Thiago Flores",
+        "siglaPartido": "MDB",
+        "siglaUf": "RO"
+    },
+    {
+        "nome": "Ti\u00e3o Medeiros",
+        "siglaPartido": "PP",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Tiririca",
+        "siglaPartido": "PL",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Toninho Wandscheer",
+        "siglaPartido": "PP",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "T\u00falio Gad\u00ealha",
+        "siglaPartido": "REDE",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Valmir Assun\u00e7\u00e3o",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Vander Loubet",
+        "siglaPartido": "PT",
+        "siglaUf": "MS"
+    },
+    {
+        "nome": "Vermelho",
+        "siglaPartido": "PL",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Vicentinho",
+        "siglaPartido": "PT",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Vicentinho J\u00fanior",
+        "siglaPartido": "PP",
+        "siglaUf": "TO"
+    },
+    {
+        "nome": "Vinicius Carvalho",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Vinicius Gurgel",
+        "siglaPartido": "PL",
+        "siglaUf": "AP"
+    },
+    {
+        "nome": "Vitor Lippi",
+        "siglaPartido": "PSDB",
+        "siglaUf": "SP"
+    },
+    {
+        "nome": "Waldemar Oliveira",
+        "siglaPartido": "AVANTE",
+        "siglaUf": "PE"
+    },
+    {
+        "nome": "Waldenor Pereira",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Washington Quaqu\u00e1",
+        "siglaPartido": "PT",
+        "siglaUf": "RJ"
+    },
+    {
+        "nome": "Weliton Prado",
+        "siglaPartido": "SOLIDARIEDADE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Wellington Roberto",
+        "siglaPartido": "PL",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Welter",
+        "siglaPartido": "PT",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Wilson Santiago",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "PB"
+    },
+    {
+        "nome": "Yandra Moura",
+        "siglaPartido": "UNI\u00c3O",
+        "siglaUf": "SE"
+    },
+    {
+        "nome": "Yury do Pared\u00e3o",
+        "siglaPartido": "S.PART.",
+        "siglaUf": "CE"
+    },
+    {
+        "nome": "Z\u00e9 Haroldo Cathedral",
+        "siglaPartido": "PSD",
+        "siglaUf": "RR"
+    },
+    {
+        "nome": "Z\u00e9 Neto",
+        "siglaPartido": "PT",
+        "siglaUf": "BA"
+    },
+    {
+        "nome": "Z\u00e9 Silva",
+        "siglaPartido": "SOLIDARIEDADE",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Z\u00e9 Trov\u00e3o",
+        "siglaPartido": "PL",
+        "siglaUf": "SC"
+    },
+    {
+        "nome": "Z\u00e9 Vitor",
+        "siglaPartido": "PL",
+        "siglaUf": "MG"
+    },
+    {
+        "nome": "Zeca Dirceu",
+        "siglaPartido": "PT",
+        "siglaUf": "PR"
+    },
+    {
+        "nome": "Zezinho Barbary",
+        "siglaPartido": "PP",
+        "siglaUf": "AC"
+    },
+    {
+        "nome": "Zucco",
+        "siglaPartido": "REPUBLICANOS",
+        "siglaUf": "RS"
+    }
+]

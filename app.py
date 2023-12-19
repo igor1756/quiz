@@ -1,21 +1,10 @@
 from flask import Flask, render_template, request, redirect, url_for
+from aplic.models import questao
 
 app = Flask(__name__, template_folder='aplic/templates')
 
 # Lista de questões e respostas
-questoes_e_respostas = [
-    {
-        'pergunta': 'Qual é a capital do Brasil?',
-        'alternativas': ['Rio de Janeiro', 'Brasília', 'São Paulo', 'Salvador'],
-        'resposta_correta': 'Brasília'
-    },
-    {
-        'pergunta': 'Quanto é 2 + 2?',
-        'alternativas': ['3', '4', '5', '6'],
-        'resposta_correta': '4'
-    },
-    # Adicione mais questões conforme necessário
-]
+questoes_e_respostas = questao.Questao.itens
 
 # Índice da pergunta atual
 pergunta_atual = 0
@@ -29,6 +18,7 @@ def pagina_principal():
         # Processar resposta do jogador
         pergunta = questoes_e_respostas[pergunta_atual]['pergunta']
         resposta_correta = questoes_e_respostas[pergunta_atual]['resposta_correta']
+        # aqui ele pega o name do form
         resposta_jogador = request.form.get('resposta_jogador')
 
         # Realizar verificações, imprimir mensagens, etc.
@@ -69,3 +59,5 @@ def conclusao():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
